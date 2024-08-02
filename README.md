@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy! 👋
 
 <!--
 **ArmaanMediratta/ArmaanMediratta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Aggie Monitor a fullstack application that allows notifies at Texas A&M when their class has open seats.
+- 🌱 I’m currently learning Next.js & React.js 
+
+
