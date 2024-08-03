@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently developing on Aggie Monitor a fullstack application that notifies students at Texas A&M when their class has open seats.
+- 🔭 I’m currently developing on Aggie Monitor a fullstack application that notifies students at Texas A&M when their class have open seats.
 - 🌱 I’m currently using Next.js & React.js.
 
 
