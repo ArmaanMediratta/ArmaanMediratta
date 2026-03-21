@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Checkout https://aggiemonitor.com/ !
-- 🔭 I’m currently developing on Aggie Monitor a fullstack application that notifies students at Texas A&M when their class have open seats.
-- 🌱 I’m currently using Next.js & React.js.
-
+- 💬 Hi I'm Armaan! I love everything with distributed systems, operating systems, and systems programming!
+- 🔭 I'm currently working on making my own sqlite!
+📫 How to reach me:
+- Email: armaanmedii@gmail.com
+- LinkedIn: [linkedin](https://www.linkedin.com/in/armaan-mediratta/)
 
