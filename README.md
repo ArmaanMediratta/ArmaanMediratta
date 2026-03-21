@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 - 💬 Hi I'm Armaan! I love everything with distributed systems, operating systems, and systems programming!
 - 🔭 I'm currently working on making my own sqlite!
+  
+<br>
+
 📫 How to reach me:
 - Email: armaanmedii@gmail.com
 - LinkedIn: [linkedin](https://www.linkedin.com/in/armaan-mediratta/)
