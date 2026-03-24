@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Hi I'm Armaan! I love everything with distributed systems, operating systems, and systems programming!
-- 🔭 I'm currently working on making my own sqlite!
+- 🔭 I'm currently working on writing sqlite from scratch.
   
 <br>
 
