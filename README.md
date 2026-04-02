@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 - Email: armaanmedii@gmail.com
-- LinkedIn: [linkedin](https://www.linkedin.com/in/armaan-mediratta/)
+- [Linkedin](https://www.linkedin.com/in/armaan-mediratta/)
 
